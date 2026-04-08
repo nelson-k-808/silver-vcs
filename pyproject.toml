@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "silver-vcs"
+version = "0.1.0"
+description = "A minimalist version control system built in Python"
+readme = "README.md"
+requires-python = ">=3.11.2"
+authors = [
+    {name = "Nelson Katale", email = "katalenelson@gmail.com"}
+]
+dependencies = [
+    "typer[all]",
+    "rich",
+]
+
+[project.scripts]
+
+ag = "silver.cli:app"

@@ -1,0 +1,2 @@
+[console_scripts]
+ag = silver.cli:app

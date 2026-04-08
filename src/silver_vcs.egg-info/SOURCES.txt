@@ -1,0 +1,17 @@
+pyproject.toml
+src/silver/__init__.py
+src/silver/cli.py
+src/silver/core/__init__.py
+src/silver/core/database.py
+src/silver/core/index.py
+src/silver/core/workspace.py
+src/silver/utils/__init__.py
+src/silver/utils/compression.py
+src/silver/utils/hashing.py
+src/silver/utils/paths.py
+src/silver_vcs.egg-info/PKG-INFO
+src/silver_vcs.egg-info/SOURCES.txt
+src/silver_vcs.egg-info/dependency_links.txt
+src/silver_vcs.egg-info/entry_points.txt
+src/silver_vcs.egg-info/requires.txt
+src/silver_vcs.egg-info/top_level.txt

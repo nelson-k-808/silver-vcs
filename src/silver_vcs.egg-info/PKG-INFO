@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: silver-vcs
+Version: 0.1.0
+Summary: A minimalist version control system built in Python
+Author-email: Nelson Katale <katalenelson@gmail.com>
+Requires-Python: >=3.11.2
+Description-Content-Type: text/markdown
+Requires-Dist: typer[all]
+Requires-Dist: rich
