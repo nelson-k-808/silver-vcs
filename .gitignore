@@ -1,3 +1,21 @@
 .idea/
-.silver/
+
+# Python bytecode
 __pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+env/
+venv/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Silver's own internal database (Don't track Silver with Silver!)
+.silver/
+
+# Secret files
+.env
